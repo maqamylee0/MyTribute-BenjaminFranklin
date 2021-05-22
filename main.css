@@ -1,0 +1,34 @@
+img{
+    width: 100%;
+    height:auto;
+    max-height: 700px;
+}
+
+#main{
+    margin:auto;
+    width: 80%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: darkkhaki;
+
+}
+
+#title{
+
+}
+#img-div{
+}
+#tribute-info{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px 70px 0px 70px;
+
+}
+a{
+    color: rgb(250, 0, 12);
+}
+a:hover
+{
+    color: chartreuse;
+}
